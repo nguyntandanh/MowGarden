@@ -28,7 +28,7 @@ XAMPP hoặc WAMP (PHP >= 7.4, MySQL).
 2. Các bước triển khai
 Clone dự án:
 Bash
-    git clone https://github.com/[Tên-User-Của-Bạn]/MowGarden.git
+    git clone https://github.com/nguyntandanh/MowGarden.git
 
 Thiết lập Database:
     Mở phpMyAdmin và tạo database mới tên là bancaycanhdb.
